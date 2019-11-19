@@ -1,0 +1,10 @@
+﻿  소스.cpp
+c:\users\a01\desktop\해오라기\chapter4_문제2_아날로그시계\소스.cpp(69): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\desktop\해오라기\chapter4_문제2_아날로그시계\소스.cpp(70): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\desktop\해오라기\chapter4_문제2_아날로그시계\소스.cpp(96): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\desktop\해오라기\chapter4_문제2_아날로그시계\소스.cpp(97): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\desktop\해오라기\chapter4_문제2_아날로그시계\소스.cpp(98): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\desktop\해오라기\chapter4_문제2_아날로그시계\소스.cpp(99): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\desktop\해오라기\chapter4_문제2_아날로그시계\소스.cpp(100): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\desktop\해오라기\chapter4_문제2_아날로그시계\소스.cpp(101): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  chapter4_문제2_아날로그시계.vcxproj -> C:\Users\A01\Desktop\해오라기\chapter4_문제2_아날로그시계\Debug\chapter4_문제2_아날로그시계.exe

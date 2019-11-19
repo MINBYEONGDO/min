@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\a01\desktop\해오라기\chapter4_문제1_원이동\소스.cpp(46): warning C4101: 'st' :참조되지 않은 지역 변수입니다.
+  Chapter4_문제1_원이동.vcxproj -> C:\Users\A01\Desktop\해오라기\Chapter4_문제1_원이동\Debug\Chapter4_문제1_원이동.exe

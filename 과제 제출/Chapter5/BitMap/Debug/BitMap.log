@@ -1,0 +1,8 @@
+﻿  Bitmap.cpp
+c:\users\a01\desktop\min\과제 제출\chapter5\bitmap\bitmap.cpp(107): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\a01\desktop\min\과제 제출\chapter5\bitmap\bitmap.cpp(112): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\a01\desktop\min\과제 제출\chapter5\bitmap\bitmap.cpp(117): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\a01\desktop\min\과제 제출\chapter5\bitmap\bitmap.cpp(122): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\a01\desktop\min\과제 제출\chapter5\bitmap\bitmap.cpp(127): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+c:\users\a01\desktop\min\과제 제출\chapter5\bitmap\bitmap.cpp(132): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  BitMap.vcxproj -> C:\Users\A01\Desktop\min\과제 제출\Chapter5\BitMap\Debug\BitMap.exe

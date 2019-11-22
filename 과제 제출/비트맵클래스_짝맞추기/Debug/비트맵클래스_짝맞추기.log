@@ -1,0 +1,5 @@
+﻿  WinMain.cpp
+c:\users\a01\source\repos\비트맵클래스_짝맞추기\winmain.cpp(45): warning C4101: 'MemDC' :참조되지 않은 지역 변수입니다.
+c:\users\a01\source\repos\비트맵클래스_짝맞추기\winmain.cpp(47): warning C4101: 'OldBitMap' :참조되지 않은 지역 변수입니다.
+c:\users\a01\source\repos\비트맵클래스_짝맞추기\winmain.cpp(47): warning C4101: 'MyBitMap' :참조되지 않은 지역 변수입니다.
+  비트맵클래스_짝맞추기.vcxproj -> C:\Users\A01\source\repos\Debug\비트맵클래스_짝맞추기.exe

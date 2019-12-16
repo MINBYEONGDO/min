@@ -1,0 +1,53 @@
+﻿  Bitmap.cpp
+c:\users\a01\desktop\min\과제 제출\chess\bitmap.cpp(31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\desktop\min\과제 제출\chess\bitmap.cpp(35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\a01\desktop\min\과제 제출\chess\bitmap.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BitmapManager.cpp
+  GameManager.cpp
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(754): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(755): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(865): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(866): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  Map.cpp
+  MapManager.cpp
+c:\users\a01\desktop\min\과제 제출\chess\mapmanager.cpp(64): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\mapmanager.cpp(64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Piece.cpp
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(754): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(755): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(865): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(866): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  PieceManager.cpp
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(754): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(755): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(865): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(866): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(35): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(39): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(43): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(47): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(51): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(55): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(59): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(63): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(69): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(73): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(78): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(82): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+c:\users\a01\desktop\min\과제 제출\chess\piecemanager.cpp(87): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Player.cpp
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(754): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(755): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(865): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(866): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  소스.cpp
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(754): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(755): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(865): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\a01\desktop\min\과제 제출\chess\piece.h(866): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+c:\users\a01\desktop\min\과제 제출\chess\mapmanager.cpp(668): warning C4715: 'MapManager::Searchobstruction': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\a01\desktop\min\과제 제출\chess\gamemanager.cpp(179): warning C4715: 'GameManager::CheckPiece_x': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\a01\desktop\min\과제 제출\chess\gamemanager.cpp(196): warning C4715: 'GameManager::CheckPiece_y': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\a01\desktop\min\과제 제출\chess\gamemanager.cpp(214): warning C4715: 'GameManager::CheckPieceType': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Chess.vcxproj -> C:\Users\A01\Desktop\min\과제 제출\Chess\Debug\Chess.exe

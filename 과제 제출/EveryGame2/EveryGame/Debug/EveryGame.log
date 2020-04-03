@@ -1,11 +1,140 @@
-﻿  StarManager.cpp
-c:\users\a01\desktop\github_1\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a01\desktop\github_1\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a01\desktop\github_1\everygame\starmanager.cpp(99): warning C4101: 'itmp' :참조되지 않은 지역 변수입니다.
-c:\users\a01\desktop\github_1\everygame\starmanager.cpp(116): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+﻿  Bullet.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(23): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(25): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(26): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(28): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(38): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(74): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(92): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(103): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(104): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(105): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(106): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(120): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(121): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(122): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(123): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bullet.cpp(147): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BulletManager.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bulletmanager.cpp(50): warning C4101: 'itmp' :참조되지 않은 지역 변수입니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\bulletmanager.cpp(67): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  Fever.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\fever.cpp(34): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\fever.cpp(49): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\fever.cpp(64): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\fever.cpp(79): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\fever.cpp(129): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\fever.cpp(136): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\fever.cpp(143): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\fever.cpp(150): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\fever.cpp(158): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FlightGameScene.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\flightgamescene.cpp(15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\flightgamescene.cpp(237): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameScene.cpp
+  LoadingScene.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PaperGameScene.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\papergamescene.cpp(14): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\papergamescene.cpp(257): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\papergamescene.cpp(297): warning C4805: '==': 연산에 'float' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\papergamescene.cpp(314): warning C4805: '==': 연산에 'float' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  PaperManager.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\papermanager.cpp(15): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  Paper.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\paper.cpp(230): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(37): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(38): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(39): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(40): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(41): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(45): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(46): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(47): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(48): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(49): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(50): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(51): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(52): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(54): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(55): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(56): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(57): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(58): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(59): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(60): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(61): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(63): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(64): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(65): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(66): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(67): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(68): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(69): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(70): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(78): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(84): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(90): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(97): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.cpp(179): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Star.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(27): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(28): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(29): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(58): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(76): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(94): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(112): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(113): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(114): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(115): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(118): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(132): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(133): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(134): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(135): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(136): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(173): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\star.cpp(179): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  StarManager.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\starmanager.cpp(99): warning C4101: 'itmp' :참조되지 않은 지역 변수입니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\starmanager.cpp(116): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
   Timer.cpp
-c:\users\a01\desktop\github_1\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\a01\desktop\github_1\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TitleScene.cpp
+  소스.cpp
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(42): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   코드를 생성하고 있습니다...
-c:\users\a01\desktop\github_1\everygame\starmanager.cpp(96): warning C4715: 'StarManager::SearchLiveStarNumber': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  EveryGame.vcxproj -> C:\Users\A01\Desktop\github_1\Debug\EveryGame.exe
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\starmanager.cpp(96): warning C4715: 'StarManager::SearchLiveStarNumber': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\papermanager.h(33): warning C4715: 'PaperManager::GetPaperMove': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\papermanager.h(60): warning C4715: 'PaperManager::GetPaperScore': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\starmanager.h(44): warning C4715: 'StarManager::GetStarScore': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\studentresorces\1시반\minbyengdo\min\과제 제출\everygame2\everygame\player.h(54): warning C4715: 'Player::GetPlayerRect': 모든 제어 경로에서 값을 반환하지는 않습니다.
+Fever.obj : error LNK2019: "public: void __thiscall JEngine::BitMap::DynamicDrawBitblt(int,int,float,float)" (?DynamicDrawBitblt@BitMap@JEngine@@QAEXHHMM@Z) 외부 기호(참조 위치: "public: void __thiscall Fever::Draw(void)" (?Draw@Fever@@QAEXXZ) 함수)에서 확인하지 못했습니다.
+FlightGameScene.obj : error LNK2001: "public: void __thiscall JEngine::BitMap::DynamicDrawBitblt(int,int,float,float)" (?DynamicDrawBitblt@BitMap@JEngine@@QAEXHHMM@Z) 외부 기호를 확인할 수 없습니다.
+PaperGameScene.obj : error LNK2001: "public: void __thiscall JEngine::BitMap::DynamicDrawBitblt(int,int,float,float)" (?DynamicDrawBitblt@BitMap@JEngine@@QAEXHHMM@Z) 외부 기호를 확인할 수 없습니다.
+D:\StudentResorces\1시반\MinByengDo\min\과제 제출\EveryGame2\EveryGame\Debug\EveryGame.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

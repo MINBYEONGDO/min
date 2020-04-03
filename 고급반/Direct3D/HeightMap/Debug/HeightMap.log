@@ -1,0 +1,5 @@
+﻿  HeightMap.cpp
+d:\aducation\d3dx\d3dx\d3dx\heightmap\heightmap.cpp(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  ZFLog.cpp
+d:\aducation\d3dx\d3dx\d3dx\heightmap\define.h(5): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...

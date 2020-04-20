@@ -1,0 +1,10 @@
+﻿  Moon.cpp
+  Planet.cpp
+c:\users\a01\desktop\min\과제 제출\solarsystem\planet.cpp(30): warning C4316: 'Moon': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  PlanetManager.cpp
+c:\users\a01\desktop\min\과제 제출\solarsystem\planetmanager.cpp(17): warning C4316: 'Planet': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  SolarSystem.cpp
+c:\users\a01\desktop\min\과제 제출\solarsystem\solarsystem.cpp(14): warning C4316: 'Sun': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  소스.cpp
+  코드를 생성하고 있습니다...
+  SolarSystem.vcxproj -> C:\Users\A01\Desktop\min\과제 제출\SolarSystem\Debug\SolarSystem.exe

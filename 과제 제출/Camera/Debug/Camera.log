@@ -1,0 +1,3 @@
+﻿  ZCamera.cpp
+c:\users\a01\desktop\github_1\camera\zcamera.cpp(64): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+  Camera.vcxproj -> C:\Users\A01\Desktop\github_1\Camera\Debug\Camera.exe

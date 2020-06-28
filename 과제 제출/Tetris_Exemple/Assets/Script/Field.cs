@@ -2,19 +2,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//1
 public class Field : MonoBehaviour
 {
     public static int width = 10;
     public static int height = 20;
 
-    // Start is called before the first frame update
+
     public static Transform[,] grid = new Transform[width, height];
 
     public static Vector2 roundVec2(Vector2 v)
     {
         //Vector2(1.02934, 2.3498) => Vector2(1, 2)로 보정해준다.
         return new Vector2(Mathf.Round(v.x), Mathf.Round(v.y));
+        //int a = 1;
     }
     public static void CheckFullLine()
     {
@@ -62,7 +63,7 @@ public class Field : MonoBehaviour
     }
     public static void ReFillLine(int Line)//List<int> list, int count
     {
-      //1
+        //1
         for (int y = Line; y < height - 1; y++)
         {
             for (int x = 0; x < width; x++)
@@ -98,7 +99,7 @@ public class Field : MonoBehaviour
         }
         point = point * 100;//스테이지 클리어시 추가 점수
     }
-    // Update is called once per frame
+
     void Update()
     {
     }

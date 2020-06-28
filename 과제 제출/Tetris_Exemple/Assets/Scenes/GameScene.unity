@@ -891,6 +891,7 @@ GameObject:
   - component: {fileID: 697422895}
   - component: {fileID: 697422894}
   - component: {fileID: 697422896}
+  - component: {fileID: 697422897}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -941,6 +942,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Obstacle: {fileID: 1101652664969252597, guid: ff2eafdaa619d1c429e9d1305d78354c,
     type: 3}
+--- !u!114 &697422897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 697422893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4ed47a88a627141829e6a7f6c5dc3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0

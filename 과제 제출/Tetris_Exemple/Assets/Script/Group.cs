@@ -10,7 +10,7 @@ public class Group : MonoBehaviour
     private float DropTime = 0f;
     private bool b_move = true;
     public List<Transform> list = new List<Transform>();
-    
+
     public enum KeyNum
     {
         DOWN = 0,
@@ -28,10 +28,6 @@ public class Group : MonoBehaviour
             t = transform.Find(str);
             list.Add(t);
         }
-    }
-
-    void Start()
-    {
     }
 
     public bool CheckInScreen(KeyNum key, List<Transform> list)
@@ -222,7 +218,10 @@ public class Group : MonoBehaviour
             Vector2 v = Ttmp.position;
             v = Field.roundVec2(v);
             if (v.y >= 15)
-                GameManager.instance.Active_GameOver();
+            {
+                if (GameManager.instance.m_bGameover == false)
+                    GameManager.instance.Active_GameOver();
+            }
         }
     }
     void Update()
@@ -233,9 +232,7 @@ public class Group : MonoBehaviour
             //방향키 사용한 이동 코드
             InputKey(list);
             //6
-            //TouchCeiling();
             TouchGround();
-            //TouchCeiling();//이미 끝나서 새로 나온 블록(시작위치)를 확인해서 실패
             //1타임 차이마다 1칸씩 아래로 이동 - 지속사용이라 큰 문제가 없이 작동
             if (Time.time - DropTime >= 1 && b_move == true)
             {

@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -39,7 +40,7 @@ public class Stage : MonoBehaviour
 
     public void StageCheck()
     {
-        if (GameManager.mScore >= mStage * 100 && m_bStageOn == false)
+        if (GameManager.mScore >= mStage * 500 && m_bStageOn == false)
         {
             mStage++;
             m_bStageOn = true;

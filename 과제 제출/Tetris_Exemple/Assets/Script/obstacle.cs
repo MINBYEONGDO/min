@@ -6,18 +6,12 @@ using UnityEngine;
 public class obstacle : MonoBehaviour
 {
     public GameObject Obstacle;
-    void Start()
-    {
-
-    }
     public void CreateObstacle(int stage)
     {
         int ObstacleCount;
         int CreateWidth;
         int CreateHeight = 0;
-        GameObject g = Instantiate(Obstacle);
-        //g = Obstacle;
-        Transform t;
+        GameObject g = Instantiate(Obstacle);//장애물 오브젝트 생성
         if (stage == 0)
             return;
         else
@@ -37,18 +31,12 @@ public class obstacle : MonoBehaviour
                             break;
                     }
                 }
-                t = g.transform;
-
                 Vector2 v = new Vector2(CreateWidth, CreateHeight);
-                t.transform.position = v;
+                g.transform.position = v;
                 v = Field.roundVec2(v);
-                Instantiate(t, t.transform.position, Quaternion.identity);
-                Field.grid[(int)v.x, (int)v.y] = t.transform;
+                Instantiate(g, g.transform.position, Quaternion.identity);
+                Field.grid[(int)v.x, (int)v.y] = g.transform;
             }
         }
-    }
-    void Update()
-    {
-
     }
 }

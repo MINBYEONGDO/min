@@ -11,7 +11,6 @@ public class UIManager : MonoBehaviour
     public Text ScoreText;
     public GameObject gameoverUI;
     public GameObject NextGroupImage;
-    // List<Transform> glist;
     private static UIManager minstance;
     public static UIManager instance
     {

@@ -65,7 +65,9 @@
     <Compile Include="Assets\Script\Field.cs" />
     <Compile Include="Assets\Script\GameManager.cs" />
     <Compile Include="Assets\Script\Group.cs" />
+    <Compile Include="Assets\Script\JsonData.cs" />
     <Compile Include="Assets\Script\MainMenu.cs" />
+    <Compile Include="Assets\Script\ScoreRankText.cs" />
     <Compile Include="Assets\Script\Spawner.cs" />
     <Compile Include="Assets\Script\Stage.cs" />
     <Compile Include="Assets\Script\UIManager.cs" />

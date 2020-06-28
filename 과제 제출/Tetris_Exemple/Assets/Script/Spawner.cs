@@ -51,5 +51,3 @@ public class Spawner : MonoBehaviour
         //->time만큼 지연 후 삭제
     }
 }
-
-

@@ -6,11 +6,12 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
 
-    static private GameManager GM_instance;
+    public List<int> GameScoreList;
     public bool m_bGameover = false;
     static public int mScore = 0;
     public string RestartKey = "Restart";
     public GameObject SubMenu;
+    static private GameManager GM_instance;
     public static GameManager instance
     {
         get
@@ -20,9 +21,17 @@ public class GameManager : MonoBehaviour
             return GM_instance;
         }
     }
-    void Start()
+    public void OnEnable()
     {
-
+        ScoreLoad();
+    }
+    public void ScoreLoad()
+    {
+        if (GameScoreList != null)
+            GameScoreList.Clear();
+        else if (GameScoreList == null)
+            GameScoreList = new List<int>();
+        GameScoreList = JsonData.LoadScore();
     }
     private void Awake()
     {
@@ -34,7 +43,6 @@ public class GameManager : MonoBehaviour
     {
         mScore += Score;
     }
-
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -65,8 +73,11 @@ public class GameManager : MonoBehaviour
     }
     public void Active_GameOver()
     {
-
+        //GameScoreList = FindObjectOfType<ScoreRankText>().;
+        //GameScoreList = ScoreRankText.GameScoreList;
         m_bGameover = true;
         UIManager.instance.SetActiveGameOverUI();
+        GameScoreList.Add(mScore);
+        JsonData.SaveScore(GameScoreList);
     }
 }
